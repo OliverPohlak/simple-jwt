@@ -4,7 +4,7 @@ A very simple JWT implementation written in Go.
  
 ### Install
 ```sh
-$ go get -u github.com/mrsih/simple-jwt
+$ go get -u github.com/OliverPohlak/simple-jwt
 ```
 
 
@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	sjwt "github.com/mrsih/simple-jwt"
+	sjwt "github.com/OliverPohlak/simple-jwt"
 )
 
 var secret = "53cr3tk3y"

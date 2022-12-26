@@ -3,7 +3,7 @@ package sjwt_test
 import (
 	"testing"
 
-	sjwt "github.com/mrsih/simple-jwt"
+	sjwt "github.com/OliverPohlak/simple-jwt"
 )
 
 func TestCorrectlyGenerated(t *testing.T) {

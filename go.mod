@@ -1,3 +1,3 @@
-module github.com/mrsih/simple-jwt
+module github.com/OliverPohlak/simple-jwt
 
 go 1.18
